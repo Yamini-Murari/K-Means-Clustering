@@ -1,5 +1,8 @@
 # K-Means-Clustering
 
+### DESCRIPTION : 
+This task uses K-Means Clustering to group mall customers based on their annual income and spending habits. The goal is to identify different types of customers so businesses can tailor their marketing strategies.
+
 ### OUTPUT :
 
 <img width="454" height="622" alt="Image" src="https://github.com/user-attachments/assets/4f6ee07d-f133-4d80-89b2-e9abee039965" />
